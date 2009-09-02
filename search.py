@@ -14,7 +14,7 @@ def ImpWords(BlogSents):
                         ImpWord.append(strg)                             
                 ImpWordsBlogs.append(ImpWord)   #end of procedure to create ImpWordsBlogs.
         
-        return  ImpWord       
+        return  ImpWord   #adding to test giyhub    
 
 
 def Bigram(ImpWords):
